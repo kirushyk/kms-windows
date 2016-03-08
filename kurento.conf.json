@@ -1,0 +1,14 @@
+{
+  "mediaServer" : {
+    "resources": {
+        "garbageCollectorPeriod": 240
+    },
+    "net" : {
+      "websocket": {
+        "port": 8888,
+        "path": "kurento",
+        "threads": 10
+      }
+    }
+  }
+}
