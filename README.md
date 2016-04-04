@@ -2,4 +2,6 @@
 ![windows](https://pp.vk.me/c631426/v631426037/19fbc/b38wURkcnMY.jpg)
 # Kurento Media Server for Windows
 
-This is Windows port of Kurento Media Server cross-compiled with MinGW.
+This is early Alpha version of Kurento Media Server 6.4.1 port to Windows, cross-compiled with MinGW.
+Should be started from `bin/` subdirectory.
+Please also set `GST_PLUGIN_PATH` environmental variable to `../lib/gstreamer-1.0`.
