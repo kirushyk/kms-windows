@@ -573,6 +573,7 @@ And this...
     cp $PREF/lib/gstreamer-1.5/libgstvmnc.dll lib/gstreamer-1.5/
     cp $PREF/lib/gstreamer-1.5/libgstvolume.dll lib/gstreamer-1.5/
     cp $PREF/lib/gstreamer-1.5/libgstvorbis.dll lib/gstreamer-1.5/
+    cp $PREF/lib/gstreamer-1.5/libgstvpx.dll lib/gstreamer-1.5/
     # cp $PREF/lib/gstreamer-1.5/libgstwasapi.dll lib/gstreamer-1.5/
     # cp $PREF/lib/gstreamer-1.5/libgstwaveformsink.dll lib/gstreamer-1.5/
     cp $PREF/lib/gstreamer-1.5/libgstwavenc.dll lib/gstreamer-1.5/
